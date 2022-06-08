@@ -39,3 +39,7 @@ Demas pruebas.
 -TestValorFueraDelRango -> No permite un valor fuera del rango (100).
 
 -TestValorNegativo -> No permite número negativo.
+
+![pruebas java](https://user-images.githubusercontent.com/85004960/172721162-af606f9b-1fe3-4f11-978e-f83f1283f3b3.png)
+
+
