@@ -1,0 +1,15 @@
+D:\Universidad\TDD\TestPruebas\PruebaFibonacci\PruebaFibonacci\bin\Debug\net6.0\PruebaFibonacci.exe
+D:\Universidad\TDD\TestPruebas\PruebaFibonacci\PruebaFibonacci\bin\Debug\net6.0\PruebaFibonacci.deps.json
+D:\Universidad\TDD\TestPruebas\PruebaFibonacci\PruebaFibonacci\bin\Debug\net6.0\PruebaFibonacci.runtimeconfig.json
+D:\Universidad\TDD\TestPruebas\PruebaFibonacci\PruebaFibonacci\bin\Debug\net6.0\PruebaFibonacci.dll
+D:\Universidad\TDD\TestPruebas\PruebaFibonacci\PruebaFibonacci\bin\Debug\net6.0\PruebaFibonacci.pdb
+D:\Universidad\TDD\TestPruebas\PruebaFibonacci\PruebaFibonacci\obj\Debug\net6.0\PruebaFibonacci.csproj.AssemblyReference.cache
+D:\Universidad\TDD\TestPruebas\PruebaFibonacci\PruebaFibonacci\obj\Debug\net6.0\PruebaFibonacci.GeneratedMSBuildEditorConfig.editorconfig
+D:\Universidad\TDD\TestPruebas\PruebaFibonacci\PruebaFibonacci\obj\Debug\net6.0\PruebaFibonacci.AssemblyInfoInputs.cache
+D:\Universidad\TDD\TestPruebas\PruebaFibonacci\PruebaFibonacci\obj\Debug\net6.0\PruebaFibonacci.AssemblyInfo.cs
+D:\Universidad\TDD\TestPruebas\PruebaFibonacci\PruebaFibonacci\obj\Debug\net6.0\PruebaFibonacci.csproj.CoreCompileInputs.cache
+D:\Universidad\TDD\TestPruebas\PruebaFibonacci\PruebaFibonacci\obj\Debug\net6.0\PruebaFibonacci.dll
+D:\Universidad\TDD\TestPruebas\PruebaFibonacci\PruebaFibonacci\obj\Debug\net6.0\refint\PruebaFibonacci.dll
+D:\Universidad\TDD\TestPruebas\PruebaFibonacci\PruebaFibonacci\obj\Debug\net6.0\PruebaFibonacci.pdb
+D:\Universidad\TDD\TestPruebas\PruebaFibonacci\PruebaFibonacci\obj\Debug\net6.0\PruebaFibonacci.genruntimeconfig.cache
+D:\Universidad\TDD\TestPruebas\PruebaFibonacci\PruebaFibonacci\obj\Debug\net6.0\ref\PruebaFibonacci.dll
