@@ -25,3 +25,17 @@ Pruebas unitarias a la serie Fibonacci.
 
 Prueba 1. El metodo no existe.
 ![Prueba1 Java](https://user-images.githubusercontent.com/85004960/172717486-0b6f238e-491b-462f-9dc1-acbc9abc7872.png)
+
+Demas pruebas.
+
+-TestValorEsperado -> Envia el resultado esperado.
+
+-TestValorCero -> No permite cero.
+
+-TestValorNull -> No permite un valor null.
+
+-TestValorCaracter -> No permite caracteres.
+
+-TestValorFueraDelRango -> No permite un valor fuera del rango (100).
+
+-TestValorNegativo -> No permite número negativo.
