@@ -5,7 +5,6 @@ package testpruebajava;
  * @author michael
  */
 public class Fibonacci {
-
     public boolean serieFibonacci(int limite) {
 
         if (limite <= 0 || limite > 100) {
