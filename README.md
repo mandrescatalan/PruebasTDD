@@ -6,9 +6,15 @@ Prueba 1. El metodo no existe.
 
 Demas pruebas.
 -TestValorCaracter -> No permite caracteres.
+
 -TestValorCero -> No permite cero.
+
 -TestValorEsperado -> Recibe un valor correcto.
+
 -TestValorFueraDelRango -> No permite un valor fuera del rango (100).
+
 -TestValorNegativo -> No permite número negativo.
+
 -TestValorNull -> No permite un valor null.
+
 ![Pruebas](https://user-images.githubusercontent.com/85004960/172536043-20fa5a87-1791-4b20-b868-c3bc9a079ed2.png)
