@@ -19,3 +19,9 @@ Demas pruebas.
 -TestValorNull -> No permite un valor null.
 
 ![Pruebas](https://user-images.githubusercontent.com/85004960/172536043-20fa5a87-1791-4b20-b868-c3bc9a079ed2.png)
+
+# Pruebas Fibonacci Lenguaje JAVA.
+Pruebas unitarias a la serie Fibonacci.
+
+Prueba 1. El metodo no existe.
+![Prueba1 Java](https://user-images.githubusercontent.com/85004960/172717486-0b6f238e-491b-462f-9dc1-acbc9abc7872.png)
